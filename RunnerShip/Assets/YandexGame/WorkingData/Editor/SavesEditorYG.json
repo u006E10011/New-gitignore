@@ -1,0 +1,36 @@
+{
+    "idSave": 38,
+    "isFirstSession": false,
+    "language": "en",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "Data": {
+        "Speed": 950,
+        "Rotate": 100.0,
+        "MaxHealth": 5,
+        "DurationUpSpeed": 3.0,
+        "DurationDownSpeed": 3.0,
+        "PercentUpSpeed": 30.0,
+        "PercentDownSpeed": 25.0,
+        "DurationInvincibility": 3.0,
+        "LevelSpeed": 6,
+        "LevelRotate": 6,
+        "LevelMaxHealth": 2,
+        "LevelDurationUpSpeed": 0,
+        "LevelDurationDownSpeed": 0,
+        "LevelPercentUpSpeed": 6,
+        "LevelPercentDownSpeed": 1,
+        "LevelDurationInvincibility": 0,
+        "LevelMultiplierCoin": 0,
+        "Bank": 90,
+        "MultiplierCoin": 1.0,
+        "MaxScore": 2802,
+        "SoundVolume": 1.0
+    }
+}
